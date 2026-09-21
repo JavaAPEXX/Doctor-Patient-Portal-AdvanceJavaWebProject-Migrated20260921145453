@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.my-bg-color {
+  background-color: #4568dc;
+}
+
+.myP-color {
+  color: #4568dc;
+}
